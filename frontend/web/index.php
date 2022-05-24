@@ -1,5 +1,5 @@
 <?php
-echo 1123345677; exit();
+echo 112334567723543; exit();
 //Раскоментировать, если сайт использует протовол https - Это переадресация на https
 /*
 if(empty($_SERVER['HTTPS']) || $_SERVER['HTTPS'] == "off"){
